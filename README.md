@@ -15,4 +15,4 @@ My name is **Alexander**, and I'm currently studying game programming at **The G
 - **Software Design** | *1 Year Completed*
 
 
-![Profile Views](https://komarev.com)
+![Visningar](https://komarev.com)
