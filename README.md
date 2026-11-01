@@ -15,4 +15,4 @@ My name is **Alexander**, and I'm currently studying game programming at **The G
 - **Software Design** | *1 Year Completed*
 
 
-![Visningar](https://komarev.com)
+![](https://komarev.com/ghpvc/?username=Alexxxsss)
