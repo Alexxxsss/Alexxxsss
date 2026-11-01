@@ -13,3 +13,6 @@ My name is **Alexander**, and I'm currently studying game programming at **The G
 
 - **Game Programming** | *The Game Assembly* *(Current)*
 - **Software Design** | *1 Year Completed*
+
+
+![Profile Views](https://komarev.com)
